@@ -12,6 +12,7 @@ function App() {
     const obj = {
       title,
       description,
+      s,
     };
     console.log(obj);
     if (inputs.title && inputs.description) {
